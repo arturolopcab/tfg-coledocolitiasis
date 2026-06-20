@@ -3,6 +3,6 @@
 
 ## Contenido del Repositorio
 *   `EDA_TFG.ipynb`: Script correspondiente al análisis exploratorio de datos (EDA)
-*   `Coledocolitiasis.ipynb`: Código relativo a los modelos
+*   `Coledocolitiasis.ipynb`: Código relativo a la Nested CV
 
 
